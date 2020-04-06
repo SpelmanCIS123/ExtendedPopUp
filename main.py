@@ -6,15 +6,6 @@
 import tkinter
 import tkinter.messagebox as box 
 
-class App:
-    def __init__(self):
-      # Create the main window
-        self.main_window = tkinter.Tk()
 
- 
-
-       
-        
-     
-        
-temp_converter = App()
+# Create the main window
+self.main_window = tkinter.Tk()
